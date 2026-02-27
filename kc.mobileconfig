@@ -24,7 +24,7 @@
             <key>PayloadOrganization</key>
             <string>Keystone Team</string>
             <key>PayloadIdentifier</key>
-            <string>com.tshield.webclip</string>
+            <string>com.keystone.webclip</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
@@ -38,7 +38,7 @@
     <key>PayloadDisplayName</key>
     <string>Keystone 资金管理平台</string> <key>PayloadOrganization</key>
     <string>Keystone Security</string><key>PayloadIdentifier</key>
-    <string>com.tshield.profile</string>
+    <string>com.keystone.profile</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
